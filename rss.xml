@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[buurmanenbuurman]]></title>
         <description><![CDATA[buurmanenbuurman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buurmanenbuurman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 13:44:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 13:48:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buurmanenbuurman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b465a9b5-3808-425c-ab32-38c400aed299.jpg">]]></description>
+            <link>https://thegrid.ai/buurmanenbuurman/ba949e2e-1c4e-42df-931c-88c9bf5aabf3/index.html</link>
+            <guid isPermaLink="false">ba949e2e-1c4e-42df-931c-88c9bf5aabf3</guid>
+            <pubDate>Wed, 27 Jan 2016 13:47:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e10e168d-3447-4223-b127-f8a6aa3ab257.jpg">]]></description>
-            <link>undefined3f149015-0a89-41c1-9bda-f776dc36929a/index.html</link>
+            <link>https://thegrid.ai/buurmanenbuurman/3f149015-0a89-41c1-9bda-f776dc36929a/index.html</link>
             <guid isPermaLink="false">3f149015-0a89-41c1-9bda-f776dc36929a</guid>
             <pubDate>Wed, 27 Jan 2016 13:44:44 GMT</pubDate>
         </item>
